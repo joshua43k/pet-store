@@ -1,0 +1,41 @@
+.petnav-img {
+  max-height: 80px;
+}
+
+.logo-text {
+  display: inline-block;
+  font-family: "Satisfy", cursive;
+  color: #ff8278;
+  font-size: 36px;
+  margin-top: 28px;
+}
+
+.hero-jum {
+  background-image: url("../img/hero.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 435px;
+}
+
+.jumbotron h2 {
+  font-family: "lato";
+  color: #fff;
+}
+
+.pan-body {
+  background-color: #EDF1F4;
+}
+
+.panel-body button {
+  background-color: #5BC0DE;
+  color: #fff;
+}
+
+.foot {
+  background-color: #000;
+  color: #fff
+}
+
+.foot .b {
+  border-left: solid 1px #fff;
+}
