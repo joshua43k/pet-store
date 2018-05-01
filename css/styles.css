@@ -1,5 +1,19 @@
+.links {
+  color: #fff;
+  text-decoration: none;
+}
+
 .petnav-img {
   max-height: 80px;
+}
+
+.petnav-links {
+  margin: 2%;
+}
+
+.petnav-links a:hover, .links:hover {
+  color: orange;
+  text-decoration: none;
 }
 
 .logo-text {
